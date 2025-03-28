@@ -1,0 +1,18 @@
+
+node_modules/
+
+
+*.log
+
+
+.env
+.csv
+
+
+build/
+dist/
+.test_5sp
+
+# Bỏ qua các tệp tạm thời của hệ điều hành
+.DS_Store
+Thumbs.db
